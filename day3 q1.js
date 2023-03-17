@@ -1,4 +1,4 @@
-//Q1 for the given JSON iterate over all loops(for in,for)
+Q1 for the given JSON iterate over all loops(for in,for)
 
 //iterating JSON using for in loop 
 var arr={'age':'23','name':'saravana'};
@@ -16,3 +16,4 @@ var n=[{ "name":"saravana", "age": "23" }, { "name": "sana", "age": "20" }]
 for(let i=0;i<n.length;i++){
     console.log(n[i].name,n[i].age)
 }
+
