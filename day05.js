@@ -115,7 +115,7 @@ let pal=function(...res){
    for(let i=0;i<res.length;i++){
     if(res[i]==res[i].split('').reverse().join('')){
     c.push(res[i])
-   // console.log(c)
+   
     }
    }
    console.log(c)
